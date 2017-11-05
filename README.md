@@ -26,7 +26,7 @@ Or download and add the dependencies. (again all dependencies will be in the `di
 
 ```html
 <script src='vue.js'></script>
-<script src='lodash-compat.js'></script>
+<script src="lodash.js"></script>
 ```
 
 Example use of components:
